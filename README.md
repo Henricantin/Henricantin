@@ -16,6 +16,8 @@
 
 Sou Desenvolvedor Front-end, com experiência no desenvolvimento de aplicações web utilizando principalmente React, TypeScript, Tailwind CSS e APIs REST, e atualmente direcionando minha carreira para me tornar um desenvolvedor Full Stack.
 
+Conta corporativa: github.com/HenriqueLeonardoICR
+
 ## 🛠️ Skills
 
 <h4 align="center">Linguagens · Languages</h4>
